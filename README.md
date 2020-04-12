@@ -1,7 +1,7 @@
 
 # CrwnClothing
 
-CrwnClothing’s e-commerce app lets you sell clothes online with just a few simple steps. When you sell clothing online with CrwnClothing, your customers will be able to quickly browse and purchase your clothing, while you manage every last detail of your business. 
+CrwnClothing’s e-commerce app lets you sell clothes online with just a few simple steps. When you sell clothing online with crwnClothing, your customers will be able to quickly browse and purchase your clothing, while you manage every last detail of your business. 
 
 
 ## Technologies:
