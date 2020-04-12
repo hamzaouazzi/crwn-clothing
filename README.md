@@ -1,19 +1,14 @@
-## Lesson-18
 
-We want to separate all our business logic in our selectors. In this lesson we add a new selector to show our total count of items.
+# CrwnClothing
 
-# How to fork and clone
-
-One quick note about cloning this project. If you wish to make commits and push the code up after cloning this repo, you should fork the project first. In order to own your own copy of this repository, you have to fork it so you get your own copy on your own profile!
-
-You can see the fork button in the top right corner of every GitHub project; click it and a copy of the project will be added to your GitHub profile under the same name as the original project.
-
-![alt text](https://i.ibb.co/1YN7SJ6/Screen-Shot-2019-07-01-at-2-02-40-AM.png "image to fork button")
-
-After forking the project, simply clone it the way you would from the new forked project in your own GitHub repository and you can commit and push to it freely!
+CrwnClothing’s e-commerce app lets you sell clothes online with just a few simple steps. When you sell clothing online with CrwnClothing, your customers will be able to quickly browse and purchase your clothing, while you manage every last detail of your business. 
 
 
-# After you fork and clone:
+## Technologies:
+* ReactJs
+* Redux
+* Sass
+* Firebase
 
 ## Install dependencies
 
